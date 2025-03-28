@@ -6,7 +6,7 @@
     <title>Mi Página Web</title>
 </head>
 <body>
-    <h1>Bienvenidos a mi sitio web DOS</h1>
+    <h1>Bienvenidos a mi sitio web DOS 02</h1>
     
     <nav>
         <a href="../index.php">Inicio</a>

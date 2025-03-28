@@ -6,8 +6,7 @@
     <title>Mi Página Web</title>
 </head>
 <body>
-    <h1>Bienvenidos a mi sitio web EXTRA</h1>
-    
+    <h1>Bienvenidos a mi sitio web EXTRA 01</h1>
     <nav>
         <a href="index.php">Inicio</a>
     </nav>
